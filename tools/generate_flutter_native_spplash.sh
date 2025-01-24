@@ -1,0 +1,1 @@
+dart run flutter_native_splash:create --path=/Volumes/Extreme SSD/AndroidStudioProjects/yoo_man/personal/assessmentmanushtech/flutter_native_splash.yaml

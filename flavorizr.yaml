@@ -1,0 +1,36 @@
+flavors:
+  development:
+    ide: "idea"
+    app:
+      name: "Manush Tech"
+
+    android:
+      applicationId: "com.manushtech.assessment"
+      icon: "assets/logos/logo.png"
+    ios:
+      bundleId: "com.manushtech.assessment"
+      icon: "assets/logos/logo.png"
+
+  staging:
+    ide: "idea"
+    app:
+      name: "Manush Tech"
+
+    android:
+      applicationId: "com.manushtech.assessment"
+      icon: "assets/logos/logo.png"
+    ios:
+      bundleId: "com.manushtech.assessment"
+      icon: "assets/logos/logo.png"
+
+  production:
+    ide: "idea"
+    app:
+      name: "Manush Tech"
+
+    android:
+      applicationId: "com.manushtech.assessment"
+      icon: "assets/logos/logo.png"
+    ios:
+      bundleId: "com.manushtech.assessment"
+      icon: "assets/logos/logo.png"

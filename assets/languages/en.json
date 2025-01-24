@@ -1,0 +1,37 @@
+{
+  "splash_screen":"SplashScreen",
+  "splash_title": "Manush Tech",
+
+
+
+
+  "screen_signin": "Login Screen",
+  "login": "Login",
+  "phone_number": "Phone Number",
+  "password": "Password",
+
+
+
+  "home_container": "Home Container",
+  "home": "Home",
+  "explore": "Explore",
+  "rides": "Rides",
+  "account": "Account",
+
+  "home_screen": "Home Screen",
+  "hello": "Hello",
+  "where_are_you_going": "Where are you going?",
+  "work": "Work",
+  "more": "More",
+  "explore_our_services": "Explore our services",
+  "book_ride": "Book Ride",
+  "airport": "Airport",
+  "city_to_city": "City to City",
+  "tax_rental": "Taxi Rental",
+  "plan_your_ride": "Plan Your Ride",
+  "now": "Now",
+  "request_a_ride_hop_go": "Request a ride, hop in and go!",
+  "later": "Later",
+  "reserve_for_extra_peace_of_mind": "Reserve for extra peace of mind",
+  "when_do_you_need_your_ride": "When do you need your ride?"
+}
